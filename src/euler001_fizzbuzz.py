@@ -23,3 +23,7 @@ def main():
     """Do we really need a doc string here?"""
     answer = euler_001()
     print(answer)
+
+
+if __name__ == '__main__':
+    main()
